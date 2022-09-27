@@ -24,7 +24,7 @@ inputs:
   with-v: 
     description: "use version prefix"
     required: false
-    default: "FALSE"
+    default: "TRUE"
   release-branch: 
     description: "provide the names from which branches to release"
     required: false
